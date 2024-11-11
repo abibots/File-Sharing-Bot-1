@@ -15,7 +15,7 @@ DB_URL = os.environ.get("DB_URL", "mongodb+srv://nshubh345:1FmseyW0TKaWNMNo@clus
 DB_NAME = os.environ.get("DB_NAME", "filesharexbot")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002185394344"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002471103603"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
